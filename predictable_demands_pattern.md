@@ -1,5 +1,3 @@
-
-
 # 1. 예측 범위 내의 요구사항
 > Predictable Demands pattern, *다음은 OREILLY의 쿠버네티스 패턴 2장을 요약한 내용입니다.*
 
